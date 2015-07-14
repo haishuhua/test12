@@ -14,7 +14,7 @@
 <p><select name="database"><option value="gadata">Gadata</option><option value="dev_data">devdata</option></select>
 <p>Company ID: <input type="text" name="companyID" placeholder="Company ID"></p>
 <p>Employee ID: <input type="text" name="employeeID" placeholder="Employee ID"></p>
-<p> <input type="submit" value="SUBMIT"></p>
+<p> <input type="submit" value="SUBMITT"></p>
 
 </form>
 
